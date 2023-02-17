@@ -99,7 +99,7 @@ With the help of the resulting table, we create a column chart, where one column
 
 The average score of urban dwellers (10.67) is higher than that of people from the suburbs (9.51) by 1.16.
 
-4. Does the number of absences correlate with grade? Plot a scatterplot, calculate the correlation coefficient. Try to approximate this dependence with different trend lines, compare the R^2 coefficient.
+4. Does the number of absences correlate with grade? Plot a scatterplot, calculate the correlation coefficient. Try to approximate this dependence with different trend lines, compare the R<sup>2</sup> coefficient.
 
 Using the `CORREL(absences, G3)` function, we find the correlation coefficient.
 
