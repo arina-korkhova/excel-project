@@ -48,7 +48,7 @@ This data approach student achievement in secondary education of two Portuguese 
 
 * **Fragment of the source data table**
 
-![Source data table](https://github.com/arina-korkhova/excel-projects/blob/main/images%20for%20readme/source_data.PNG)
+![Source data table](https://github.com/arina-korkhova/excel-projects/blob/main/images%20for%20readme/source_data.png)
 
 1. First, we will establish whether it is true that the more time a student devotes to studying (studytime), the more successful their results are (target feature G3) and build an infographic.
 
